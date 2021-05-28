@@ -1,0 +1,130 @@
+#title{
+    background-color: #000000;
+}
+.container-fluid{
+    padding: 0;
+    padding-top: 5%;
+    width: 100%;
+}
+.navbar{
+    position: fixed;
+    padding-left: 2%;
+    background-color: #333333;
+    width: 100%;
+}
+.navbar-brand{
+    width: 20%;
+}
+.passion-fruit-title{
+    width: 10%;
+}
+
+.nav-item{
+    margin: 0 5%;
+}
+
+.title-container{
+    padding: 3%;
+    color: white;
+    text-align: center;
+    width: 100%;
+    
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+
+a{
+    text-decoration: none;
+    margin: 0 5px;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.tpad-pro-img{
+    width: 25%;
+}
+
+#tphone{
+    background-image: linear-gradient(to bottom,#d7c5f3, #a985aa);
+
+}
+.tphone-container{
+
+    padding: 3%;
+    color: white;
+    text-align: center;
+}
+
+.tphone-img{
+    width: 50%;
+}
+
+#tmac{
+    background-image: white;
+
+}
+.tmac-container{
+    color: #000000;
+    padding: 3%;
+    text-align: center;
+}
+
+.tmac-img{
+    width: 35%;
+}
+
+#call-to-action{
+    background-color: white;
+    padding: 0 7% 5%;
+}
+
+.cta-container{
+    background-color: #000000;
+    color: white;
+    padding: 5% 5% 0;
+    text-align: center;
+    
+    
+}
+
+.cta-header{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.cta-tphone-img{
+    width: 70%;
+}
+
+.cta-passion-wacth-img{
+    width: 30%;
+}
+
+#footer{
+    margin: 0%;
+    background-color: #F5F5F7;
+    width: 100%;
+}
+
+.footer-container{
+    padding:5%;
+}
+
+hr{
+    border: 0;
+    border-bottom: 1px solid grey;
+}
